@@ -7,6 +7,7 @@ from pycuda.compiler import SourceModule
 import matplotlib.pyplot as plt
 
 
+
 #################
 #               #
 #  ΕΡΩΤΗΜΑ Α.1  #
